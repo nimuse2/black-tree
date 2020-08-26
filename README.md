@@ -1,3 +1,9 @@
+## Developer Notes
+
+A simple app - get all flags - search them and display..!
+Using React Router
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
