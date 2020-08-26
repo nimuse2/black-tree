@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ab6cc12a43e980d1d725e2bf3a4fb43",
+    "revision": "83d4b1802c1f78d2236ae70a55f970ee",
     "url": "/black-tree/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/black-tree/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "48549833c86c3217ad9e",
+    "revision": "fe98e92280034f8c80d6",
     "url": "/black-tree/static/css/main.8db1cf44.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/black-tree/static/js/2.761649b9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "48549833c86c3217ad9e",
-    "url": "/black-tree/static/js/main.7ba6a33c.chunk.js"
+    "revision": "fe98e92280034f8c80d6",
+    "url": "/black-tree/static/js/main.05c2e50c.chunk.js"
   },
   {
     "revision": "7acb07210be6ff7aeba2",
