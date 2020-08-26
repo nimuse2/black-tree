@@ -23,19 +23,15 @@ export default class page1 extends Component {
         this.setState({
             filtered: this.props.data.Country
         });
-        console.log(this.state);
     }
 
     componentWillReceiveProps(nextProps) {
-        console.log('->',this.state);
-        console.log('-->',nextProps);
         this.setState({
           filtered: nextProps.data.Country
         });
       }
 
     handleChange(e){
-        console.log(e.target.value);
         this.setState({value: e.target.value});
         let currentList = [];
         let newList = [];
@@ -55,7 +51,6 @@ export default class page1 extends Component {
         });
     }
     handleClick(flag, name){
-        console.log('click', flag);
         this.setState({
             currentFlag: flag,
             currentName: name,
@@ -130,7 +125,7 @@ export default class page1 extends Component {
                                             type="button"
                                             class="btn-sm" 
                                             onClick={() => this.handleClick(country.flag.svgFile, country.name)}>
-                                                Find It
+                                                Find
                                         </Button>
                                     </li>
                                 )

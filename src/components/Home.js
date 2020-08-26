@@ -14,7 +14,6 @@ export default class Home extends Component {
                     <p class="lead">by Nick Walters for Black Tree Gaming</p>
                     <hr class="my-4"></hr>
                     <p class="follow">&copy; August 2020</p>
-                    <p class="follow">Based on open data API: https://github.com/lennertVanSever/graphcountries</p>
                     </Jumbotron>
                 </Container>
         )
