@@ -6,10 +6,10 @@ A simple app to get all flags from open data API:
 To then search through them with a text filter and display correct flag!
 
 Notes:
-Structure: Would improve by abstracting code more into components
-React Router implemented
-External API: Used quite simple, reliable Coutry Flags
-CSS: Bootstrap
-Test: Very, very Simple test in App.test.js
+- Structure: Would improve by abstracting code more into components
+- Routing: React Router
+- External API: Used quite simple, reliable Coutry Flags
+- CSS: Bootstrap
+- Test: Very, very Simple test in App.test.js
 
-NSW 
+:copyright: NSW 2020
