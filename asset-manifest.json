@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/black-tree/static/css/main.8db1cf44.chunk.css",
+    "main.js": "/black-tree/static/js/main.7ba6a33c.chunk.js",
+    "main.js.map": "/black-tree/static/js/main.7ba6a33c.chunk.js.map",
+    "runtime-main.js": "/black-tree/static/js/runtime-main.b8d61019.js",
+    "runtime-main.js.map": "/black-tree/static/js/runtime-main.b8d61019.js.map",
+    "static/css/2.11829350.chunk.css": "/black-tree/static/css/2.11829350.chunk.css",
+    "static/js/2.761649b9.chunk.js": "/black-tree/static/js/2.761649b9.chunk.js",
+    "static/js/2.761649b9.chunk.js.map": "/black-tree/static/js/2.761649b9.chunk.js.map",
+    "index.html": "/black-tree/index.html",
+    "precache-manifest.c588bd30bba4100457aeb826a0bc0f26.js": "/black-tree/precache-manifest.c588bd30bba4100457aeb826a0bc0f26.js",
+    "service-worker.js": "/black-tree/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/black-tree/static/css/2.11829350.chunk.css.map",
+    "static/css/main.8db1cf44.chunk.css.map": "/black-tree/static/css/main.8db1cf44.chunk.css.map",
+    "static/js/2.761649b9.chunk.js.LICENSE.txt": "/black-tree/static/js/2.761649b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8d61019.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.761649b9.chunk.js",
+    "static/css/main.8db1cf44.chunk.css",
+    "static/js/main.7ba6a33c.chunk.js"
+  ]
+}
