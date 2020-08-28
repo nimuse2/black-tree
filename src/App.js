@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import {
-  BrowserRouter as Router,
+  // BrowserRouter as Router,
+  BrowserRouter,
   Switch,
   Route,
   Link
@@ -34,7 +35,6 @@ export default class App extends Component {
     })
     .then(res => res.json())
     .then(res => {
-      console.log('res: ', res.data);
       this.setState({
         data: res.data,
         error: res.error || null,
@@ -51,7 +51,7 @@ export default class App extends Component {
 
     return (
       
-      <Router>
+      <BrowserRouter basename="/black-tree">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
           <div class="d-flex">
             <div class="p-2">
@@ -88,7 +88,7 @@ export default class App extends Component {
           </Route>
         </Switch>
       </div>
-    </Router>
+    </BrowserRouter>
     );
   }
   
