@@ -50,11 +50,7 @@ export default class App extends Component {
 
     return (
       
-      <BrowserRouter basename="/">
-        {/* 
-          local build :basename="/black-tree" 
-          production build: basename="/"
-        */}
+      <BrowserRouter basename="/black-tree">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
           <div class="d-flex">
             <div class="p-2">
